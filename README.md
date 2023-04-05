@@ -3,7 +3,9 @@
 ![Andrea Café](./andrea.jpg)
 
 ## Main Idea of The Project
-**It is a site describing the historical café of the Greek tourist Andrea in Mansoura (since 1907), we have created many pages, such as the contact page, the story of the café, the gallery, and visitors' reviews.**
+**It's a website describing the historical café of the Greek tourist Andrea in Mansoura (since 1907), we have created many pages, such as the contact page, the story of the café, the gallery, and visitors' reviews.**
+
+*Note: We used HTML, CSS only*
 
 **Ανδρεασ Καφεσ.**
 
