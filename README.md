@@ -1,5 +1,19 @@
-# Andrea's Café Project
+## Andrea's Café Project
 
-**Andrea's Café - IT Project with my CIS college Team, First Year 2nd Semester - Dept. of Information Technology.**
+![Andrea Café](./andrea.jpg)
 
-![Prime Numbers](./andrea.jpg)
+## Main Idea of The Project
+**It is a site describing the historical café of the Greek tourist Andrea in Mansoura (since 1907), we have created many pages, such as the contact page, the story of the café, the gallery, and visitors' reviews.**
+
+**Ανδρεασ Καφεσ.**
+
+**Constantin Nicolopulos early owned the café, Work Permit was issued by the Egyptian Kingdom's Ministry of social affairs in 1950, to Greek National Constantin Nicolopulos, and his husband Marie Dimitri Macri and the owner of Andrea Café before it was sold to Husayn Uthman.**
+
+## Project Teammates
+* [Amr Bedir](#)
+* [Christine Amir](#)
+* [Kareem Mohammed](#)
+* [Karoline Roshdy](#)
+* [Kerelous Raouf](#)
+* [Madonna Ebrahim](#)
+
