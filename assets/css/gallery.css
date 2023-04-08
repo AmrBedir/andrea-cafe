@@ -5,6 +5,11 @@
 }
 body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-image: linear-gradient(rgb(0,0,0,0.7),rgb(0,0,0,0.7)),url(../img/242213976_1465445180501957_6676901924019903320_n.jpg)!important;
+  background-position: center center!important;
+  background-size: cover!important;
+  background-repeat: no-repeat!important;
+  background-attachment: fixed!important;
 }
 .container {
   padding: 30px 5%;
@@ -13,6 +18,7 @@ body {
   margin-bottom: 2rem;
   font-size: 2rem;
   text-align: center;
+  color: white;
 }
 .heading-text span {
   font-weight: 100;
