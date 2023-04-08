@@ -11,6 +11,9 @@
 
 **Constantin Nicolopulos early owned the café, Work Permit was issued by the Egyptian Kingdom's Ministry of social affairs in 1950, to Greek National Constantin Nicolopulos, and his husband Marie Dimitri Macri and the owner of Andrea Café before it was sold to Husayn Uthman.**
 
+*Last Updated: 8/April/2023.*
+
+
 ## Project Teammates
 * [Amr Bedir Taher](#)
 * [Christine Amir Sabry](#)
