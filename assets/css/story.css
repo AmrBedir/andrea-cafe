@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(236, 229, 218);
+}
+h1{
+   margin: 0;
+   padding: 0;
+   background-color: rgb(231, 180, 131);
+   color: rgb(121, 48, 14);
+   text-align: center;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 26px;
+    margin: 5px;
+    padding: 5px;
+}
+img{
+    margin: 10px 10px 10px 10px;
+    border: 3px solid #555;
+    border-radius: 20px;
+}
