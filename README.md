@@ -25,4 +25,5 @@
 ![Andrea Café Teammates](./Final-prod[jpg].jpg)
 * [Rimone Naffi (Poster Designer)](https://www.linkedin.com/in/rimone/)
 
+<p align="center">Andrea's Café, Made with :heart:</p>
 
