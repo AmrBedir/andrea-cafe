@@ -26,4 +26,5 @@
 * [Rimone Naffi (Poster Designer)](https://www.linkedin.com/in/rimone/)
 
 <p align="center">Andrea's Café, Made with :heart:&:coffee:</p>
+<p align="center">Seeking for Knowledge and Wisdom.</p>
 
