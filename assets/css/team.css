@@ -32,9 +32,9 @@ body{
     box-sizing: border-box;
 }
 .content{
-    position: absolute;
+    position: relative;
     text-align: center;
-    top: 25%;
+    top: 20%;
 }
 .navbar {
     height: 12%;
